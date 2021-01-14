@@ -1,9 +1,11 @@
-﻿using System;
+﻿using ASAM.MDF.Libary.Types;
+
+using System;
 using System.Collections.Generic;
 using System.Reflection;
 using System.Text;
 
-namespace 
+namespace ASAM.MDF.Libary
 
 {
     public class HeaderBlock : Block

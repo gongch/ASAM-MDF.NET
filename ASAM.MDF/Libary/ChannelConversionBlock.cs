@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ASAM.MDF.Libary.Types;
+
+using System;
 
 namespace ASAM.MDF.Libary
 {
